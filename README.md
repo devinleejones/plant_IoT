@@ -2,7 +2,7 @@
 
 This project is a self watering system that monitors soil moisture levesl and sends data about it through wifi to Arduino IO. When the soil moisture gets too low, IFTTT will notify you through email and allow you to send an email to trigger the water pump to water your plant remotely.
 
-Provide a description of your initial project idea and include images of the concept sketches that you created in Part 1 of this assignment.  Explain the reasoning behind your final choice of the project concept, whether it’s based on one of the initial sketches, a combination of or a departure from the original concepts.
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Soil_Sensor.png)
 
 ## Implementation   
 
