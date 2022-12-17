@@ -11,8 +11,11 @@ Explain your process of prototype development including all applicable aspects s
 ### Hardware
 
 This project is powered by the M5 Core-Ink microprocessor which powers and facilitates the entire process.
+
 Capacative Soil Moisture Sensor v1.2 - Track moisture levels
+
 Relay - Toggle the on and off function of the water pump
+
 Water Pump - Water the plant from external water supply
 
 Include a schematic diagram image (Fritzing is recommended, but hand-drawn is OK) showing all the wiring connections between the M5Stack-CoreInk board and other components.  
