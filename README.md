@@ -32,7 +32,6 @@ Water Pump - Water the plant from external water supply
 
 ![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4312.jpg)
 
-
 ### Firmware   
 
 Provide a link to your Arduino code and explain a few important parts that make your prototype work.  Most likely you should explain the inputs/outputs used in your code and how they affect the behavior of the prototype.
