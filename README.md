@@ -18,9 +18,20 @@ Relay - Toggle the on and off function of the water pump
 
 Water Pump - Water the plant from external water supply
 
-Include a schematic diagram image (Fritzing is recommended, but hand-drawn is OK) showing all the wiring connections between the M5Stack-CoreInk board and other components.  
+### Schematic   
 
-In addition, include at least one photo showing your hardware wiring.  This can be several close-ups with the goal of showing how the wiring connections are made.  This is especially important if your project has an enclosure, to reveal what is inside.
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4305.jpg)
+
+### Hardware Wiring   
+
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4306.jpg)
+
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4307.jpg)
+
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4310.jpg)
+
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4312.jpg)
+
 
 ### Firmware   
 
