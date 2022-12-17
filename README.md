@@ -20,9 +20,11 @@ Water Pump - Water the plant from external water supply
 
 ### Schematic   
 
-![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4305.jpg)
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/Screen%20Shot%202022-12-16%20at%205.06.16%20PM.png)
 
 ### Hardware Wiring   
+
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4305.jpg)
 
 ![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4306.jpg)
 
@@ -36,9 +38,17 @@ Water Pump - Water the plant from external water supply
 
 <iframe src=https://create.arduino.cc/editor/devinleejones/82c21e42-468c-42c4-834b-65c706918a46/preview?F=ReadMe.adoc?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
 
+In the code, I am using Adafruit IO to subscribe to a feed to listen to a "ON" or "OFF" message to turn the relay on for the water pump. This is also contingent on if the threshold is below the ideal moisture level. There is also a feed subscribed to the data from the M5 processor to notify adafruit and myself through email if the water moisture level goes below the threshold.
+
 ### Software   
 
-Similar to above, explain the important software components of your project with relevant code snippets and links (for example, a link to your p5 editor sketch).  
+<iframe src=https://create.arduino.cc/editor/devinleejones/82c21e42-468c-42c4-834b-65c706918a46/preview?F=ReadMe.adoc?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4312.jpg)
+
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4312.jpg)
+
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4312.jpg)
 
 ### Integrations   
 
