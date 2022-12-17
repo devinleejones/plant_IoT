@@ -11,8 +11,11 @@ Explain your process of prototype development including all applicable aspects s
 ### Hardware
 
 This project is powered by the M5 Core-Ink microprocessor which powers and facilitates the entire process.
+Capacative Soil Moisture Sensor v1.2 - Track moisture levels
+Relay - Toggle the on and off function of the water pump
+Water Pump - Water the plant from external water supply
 
-List all the separate hardware components used in your project and briefly explain what they do.  Include a schematic diagram image (Fritzing is recommended, but hand-drawn is OK) showing all the wiring connections between the M5Stack-CoreInk board and other components.  
+Include a schematic diagram image (Fritzing is recommended, but hand-drawn is OK) showing all the wiring connections between the M5Stack-CoreInk board and other components.  
 
 In addition, include at least one photo showing your hardware wiring.  This can be several close-ups with the goal of showing how the wiring connections are made.  This is especially important if your project has an enclosure, to reveal what is inside.
 
