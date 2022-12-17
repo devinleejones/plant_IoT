@@ -38,21 +38,20 @@ Water Pump - Water the plant from external water supply
 
 <iframe src=https://create.arduino.cc/editor/devinleejones/82c21e42-468c-42c4-834b-65c706918a46/preview?F=ReadMe.adoc?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
 
+
 In the code, I am using Adafruit IO to subscribe to a feed to listen to a "ON" or "OFF" message to turn the relay on for the water pump. This is also contingent on if the threshold is below the ideal moisture level. There is also a feed subscribed to the data from the M5 processor to notify adafruit and myself through email if the water moisture level goes below the threshold.
 
 ### Software   
 
 <iframe src=https://create.arduino.cc/editor/devinleejones/82c21e42-468c-42c4-834b-65c706918a46/preview?F=ReadMe.adoc?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
 
+### Integrations   
+
 ![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/Screen%20Shot%202022-12-16%20at%205.27.53%20PM.png)
 
 ![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/Screen%20Shot%202022-12-16%20at%205.28.04%20PM.png)
 
 ![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/Screen%20Shot%202022-12-16%20at%205.28.42%20PM.png)
-
-### Integrations   
-
-Include a link to and/or screenshots of other functional components of your project, like Adafruit IO feeds, dashboards, IFTTT applets, etc.  In general, think of your audience as someone new trying to learn how to make your project and make sure to cover anything helpful to explain the functional parts of it.
 
 ### Enclosure / Mechanical Design   
 
