@@ -36,10 +36,9 @@ Water Pump - Water the plant from external water supply
 
 ### Firmware   
 
-<iframe src=https://create.arduino.cc/editor/devinleejones/82c21e42-468c-42c4-834b-65c706918a46/preview?F=ReadMe.adoc?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
-
-
 In the code, I am using Adafruit IO to subscribe to a feed to listen to a "ON" or "OFF" message to turn the relay on for the water pump. This is also contingent on if the threshold is below the ideal moisture level. There is also a feed subscribed to the data from the M5 processor to notify adafruit and myself through email if the water moisture level goes below the threshold.
+
+<iframe src=https://create.arduino.cc/editor/devinleejones/82c21e42-468c-42c4-834b-65c706918a46/preview?F=ReadMe.adoc?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
 
 ### Software   
 
@@ -53,18 +52,23 @@ In the code, I am using Adafruit IO to subscribe to a feed to listen to a "ON" o
 
 ![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/Screen%20Shot%202022-12-16%20at%205.28.42%20PM.png)
 
-### Enclosure / Mechanical Design   
-
-Explain how you made the enclosure or any other physical or mechanical aspects of your project with photos, screenshots of relevant files such as laser-cut patterns, 3D models, etc. (it’s great if you’re willing to share the editable source files too!)
 
 ## Project outcome  
 
-Summarize the results of your final project implementation and include at least 2 photos of the prototype and a video walkthrough of the functioning demo.
+[Summarize the results of your final project implementation and include at least 2 photos of the prototype and a video walkthrough of the functioning demo.](https://youtube.com/shorts/DgtvGtQOz5Q?feature=share)
 
 ## Conclusion  
 
-As you wrap up the project, reflect on your experience of creating it.  Use this as an opportunity to mention any discoveries or challenges you came across along the way.  If there is anything you would have done differently, or have a chance to continue the project development given more time or resources, it’s a good way to conclude this section.
+I had a lot of fun working on this project and using the built in wifi cababilities of the M5 Board to connect to Adafruit IO. Utilizing the feeds and the applets through IFTTT was a really cool experience that felt pretty seamless. Some of the biggest difficulties for me was figuring out the logic for the relay in conjuction with the water pump to water the plant when necessary based on readings of the thresholds built in. In the future I would like to develop the applets further to have more versatility for hte user when watering their plants remotelty. 
 
 ## Project references  
 
-Please include links to any online resources like videos or tutorials that you may have found helpful in your process of implementing the prototype. If you used any substantial code from an online resource, make sure to credit the author(s) or sources.
+Adafruit -
+
+https://www.adafruit.com/product/4547?gclid=Cj0KCQiAm5ycBhCXARIsAPldzoUbuDUomzTId5K_s44k9dhl1d6b_HoViTWjhyyQ2sczhtfTbzvqmXIaAvQcEALw_wcB
+https://www.adafruit.com/product/4026
+
+Youtube -
+
+Caroline Dunn
+https://www.youtube.com/watch?v=0tlo2dZ8J1s
