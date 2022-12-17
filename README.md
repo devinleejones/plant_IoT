@@ -2,7 +2,7 @@
 
 This project is a self watering system that monitors soil moisture levels and sends data about it through wifi to Arduino IO. When the soil moisture gets too low, IFTTT will notify you through email and allow you to send an email to trigger the water pump to water your plant remotely.
 
-![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Soil_Sensor.png)
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/Soil_Sensor.png)
 
 ## Implementation   
 
