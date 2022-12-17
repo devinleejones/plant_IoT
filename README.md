@@ -55,7 +55,7 @@ In the code, I am using Adafruit IO to subscribe to a feed to listen to a "ON" o
 
 ## Project outcome  
 
-[Summarize the results of your final project implementation and include at least 2 photos of the prototype and a video walkthrough of the functioning demo.](https://youtube.com/shorts/DgtvGtQOz5Q?feature=share)
+[Final video walkthrough of prototype](https://youtube.com/shorts/DgtvGtQOz5Q?feature=share)
 
 ## Conclusion  
 
