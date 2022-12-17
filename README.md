@@ -34,15 +34,7 @@ Water Pump - Water the plant from external water supply
 
 ### Firmware   
 
-Provide a link to your Arduino code and explain a few important parts that make your prototype work.  Most likely you should explain the inputs/outputs used in your code and how they affect the behavior of the prototype.
-
-For the Arduino editor link, you can paste the `<iframe>` embed, which will show up correctly on the GitHub Pages version of this document. To include shorter code snippets on the page, you can use the code block markdown, like this:
-
-```
-if(sensorVal > 1000) {  // sensor value higher than threshold
-   digitalWrite(ledPin, HIGH);  // turn on LED
-}
-```
+<iframe src=https://create.arduino.cc/editor/devinleejones/82c21e42-468c-42c4-834b-65c706918a46/preview?F=ReadMe.adoc?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
 
 ### Software   
 
