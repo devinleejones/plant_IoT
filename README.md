@@ -2,7 +2,7 @@
 
 This project is a self watering system that monitors soil moisture levels and sends data about it through wifi to Arduino IO. When the soil moisture gets too low, IFTTT will notify you through email and allow you to send an email to trigger the water pump to water your plant remotely.
 
-![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Soil_Sensor.png)
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/Soil_Sensor.png)
 
 ## Implementation   
 
@@ -18,21 +18,23 @@ Relay - Toggle the on and off function of the water pump
 
 Water Pump - Water the plant from external water supply
 
-Include a schematic diagram image (Fritzing is recommended, but hand-drawn is OK) showing all the wiring connections between the M5Stack-CoreInk board and other components.  
+### Schematic   
 
-In addition, include at least one photo showing your hardware wiring.  This can be several close-ups with the goal of showing how the wiring connections are made.  This is especially important if your project has an enclosure, to reveal what is inside.
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4305.jpg)
+
+### Hardware Wiring   
+
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4306.jpg)
+
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4307.jpg)
+
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4310.jpg)
+
+![example of an image](https://github.com/devinleejones/plant_IoT/blob/main/Photos/IMG_4312.jpg)
 
 ### Firmware   
 
-Provide a link to your Arduino code and explain a few important parts that make your prototype work.  Most likely you should explain the inputs/outputs used in your code and how they affect the behavior of the prototype.
-
-For the Arduino editor link, you can paste the `<iframe>` embed, which will show up correctly on the GitHub Pages version of this document. To include shorter code snippets on the page, you can use the code block markdown, like this:
-
-```
-if(sensorVal > 1000) {  // sensor value higher than threshold
-   digitalWrite(ledPin, HIGH);  // turn on LED
-}
-```
+<iframe src=https://create.arduino.cc/editor/devinleejones/82c21e42-468c-42c4-834b-65c706918a46/preview?F=ReadMe.adoc?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
 
 ### Software   
 
